@@ -89,6 +89,7 @@ LogSign은 소셜 로그인과 일반 로그인을 모두 지원하는 웹 애�
 - 일반 회원가입과 소셜 회원가입 선택 가능
 - 약관 동의 항목
 - 닉네임, 이메일, 비밀번호 입력 필드 제공
+  
 ![LogSIgn-Register](LogSign-Register.png)
 ![LogSIgn-Register2](LogSign-Register2.png)
 
