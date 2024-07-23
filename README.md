@@ -85,17 +85,20 @@ LogSign은 소셜 로그인과 일반 로그인을 모두 지원하는 웹 애�
 ![LogSIgn-Login](LogSign-Login.png)
 
 
-회원가입 페이지
-일반 회원가입과 소셜 회원가입 선택 가능
-약관 동의 항목
-닉네임, 이메일, 비밀번호 입력 필드 제공
+2. 회원가입 페이지
+- 일반 회원가입과 소셜 회원가입 선택 가능
+- 약관 동의 항목
+- 닉네임, 이메일, 비밀번호 입력 필드 제공
+![LogSIgn-Register](LogSign-Register.png)
+![LogSIgn-Register2](LogSign-Register2.png)
 
 
-
-비밀번호 찾기 페이지
-이메일을 입력하여 비밀번호 재설정 링크 요청
-비밀번호 재설정 페이지로 이동하여 새로운 비밀번호 설정
-
+3. 비밀번호 찾기 페이지
+- 이메일을 입력하여 비밀번호 재설정 링크 요청
+- 비밀번호 재설정 페이지로 이동하여 새로운 비밀번호 설정
+![LogSIgn-ResetPassword](LogSign-ResetPassword.png)
+![LogSIgn-ResetPassword2](LogSign-ResetPassword2.png)
+![LogSIgn-ResetPassword3](LogSign-ResetPassword3.png)
 
 
 ## 6. 주의사항
