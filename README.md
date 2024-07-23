@@ -47,21 +47,18 @@ LogSign은 소셜 로그인과 일반 로그인을 모두 지원하는 웹 애�
 닉네임 및 이메일 중복 확인
 
 ## 4. 설치 및 실행
-로컬에서 프로젝트 실행하기
+### 로컬에서 프로젝트 실행하기
 
 저장소 클론
-git clone https://github.com/username/LogSign.git
-cd LogSign
+- git clone https://github.com/username/LogSign.git
 
 백엔드 서버 설정
-cd backend
-npm install
-npm start
+- npm install
+- npm start
 
 프론트엔드 서버 설정
-cd ../frontend
-npm install
-npm run serve
+- npm install
+- npm run serve
 
 .env 파일 설정
 프로젝트 루트에 .env 파일을 생성하고 다음 내용을 추가합니다.
