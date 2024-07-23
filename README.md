@@ -66,15 +66,15 @@ npm run serve
 .env 파일 설정
 프로젝트 루트에 .env 파일을 생성하고 다음 내용을 추가합니다.
 
-GOOGLE_CLIENT_ID=your_google_client_id
-GOOGLE_CLIENT_SECRET=your_google_client_secret
-NAVER_CLIENT_ID=your_naver_client_id
-NAVER_CLIENT_SECRET=your_naver_client_secret
-KAKAO_CLIENT_ID=your_kakao_client_id
-KAKAO_CLIENT_SECRET=your_kakao_client_secret
-MONGODB_URI=your_mongodb_uri
-EMAIL_USER=your_email
-EMAIL_PASS=your_email_password
+-GOOGLE_CLIENT_ID=your_google_client_id
+-GOOGLE_CLIENT_SECRET=your_google_client_secret
+-NAVER_CLIENT_ID=your_naver_client_id
+-NAVER_CLIENT_SECRET=your_naver_client_secret
+-KAKAO_CLIENT_ID=your_kakao_client_id
+-KAKAO_CLIENT_SECRET=your_kakao_client_secret
+-MONGODB_URI=your_mongodb_uri
+-EMAIL_USER=your_email
+-EMAIL_PASS=your_email_password
 
 ## 5. 화면 구성
 메인 페이지
